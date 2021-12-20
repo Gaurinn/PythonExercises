@@ -1,0 +1,19 @@
+
+A E L E A
+True
+A E L E A
+
+
+A E L B A
+False
+A E L B A
+
+
+C A L L A C
+True
+C A L L A C
+
+
+C A L T E C
+False
+C A L T E C
